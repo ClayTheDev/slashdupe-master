@@ -3,7 +3,7 @@
     - /dupe on hotkey (not implemented)
     - budget /stack
 
-- custom commands (not implemented)
+- custom commands 
     - aliases
 
 - shulker box peek (not implemented)
@@ -25,10 +25,6 @@
 
 - anti afk
     - sends /afk in the chat every 5 minutes
-
-- color stuff (not implemented)
-    - this https://rgb.birdflop.com/ but gui
-    - color code viewer
 
 - staff mode (not implemented)
     - checks ur ign to enable
